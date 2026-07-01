@@ -42,7 +42,3 @@ Future Improvements
 - Limit the number of guesses
 - Add a Play Again option
 - Add difficulty levels (Easy, Medium, Hard)
-
-Author
-
-Created by Nvk while learning C programming.
